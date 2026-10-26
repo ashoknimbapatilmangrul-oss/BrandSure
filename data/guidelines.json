@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RULE-001",
+    "title": "Avoid Unsupported Guarantees",
+    "term": "guaranteed",
+    "severity": "High",
+    "category": "Claims & Compliance",
+    "description": "Do not promise guaranteed results without approved evidence.",
+    "suggestion": "Replace with qualified and evidence-based wording.",
+    "enabled": true
+  },
+  {
+    "id": "RULE-002",
+    "title": "Avoid Absolute Risk Claims",
+    "term": "100% risk-free",
+    "severity": "High",
+    "category": "Claims & Compliance",
+    "description": "Avoid absolute risk claims without approved evidence.",
+    "suggestion": "Explain the specific safeguards instead of making an absolute claim.",
+    "enabled": true
+  },
+  {
+    "id": "RULE-003",
+    "title": "Maintain Professional Tone",
+    "term": "OMG",
+    "severity": "Medium",
+    "category": "Tone of Voice",
+    "description": "Avoid overly casual slang in official brand communications.",
+    "suggestion": "Replace slang with professional wording.",
+    "enabled": true
+  }
+]
